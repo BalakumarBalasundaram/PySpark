@@ -1,0 +1,10 @@
+Steps to setup python in eclipse
+
+On winodws -> preference -> pythoninterpreter -> provide the interpreter from C Drive python installation path
+Later, Configure HADOOP_HOME and SPARK_HOME for python - pyDev Environment.
+On Libraries, select pySpark and py4j libraries and add it. --This would add these two libraries into System libraries of PYTHON environment.
+
+Example link:
+https://blog.puneethabm.com/pyspark-dev-set-up-eclipse-windows/
+
+Once everything is setup, Create python project and run the code.
